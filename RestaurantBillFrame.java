@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 
-/*Business P10.35  Write a graphical application that produces a restaurant bill.
+/*Business P10.35   Write a graphical application that produces a restaurant bill.
  Provide buttons for ten popular dishes or drink items. (You
  decide on the items and their prices.) Provide text fields for
  entering less popular items and prices. In a text area, show the
